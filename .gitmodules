@@ -1,3 +1,6 @@
 [submodule "upwards"]
 	path = upwards
 	url = https://github.com/corwinkuiper/upwards.git
+[submodule "amplitude"]
+	path = amplitude
+	url = https://github.com/corwinkuiper/amplitude.git
