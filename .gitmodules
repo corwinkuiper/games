@@ -1,0 +1,3 @@
+[submodule "upwards"]
+	path = upwards
+	url = git@github.com:corwinkuiper/upwards.git
